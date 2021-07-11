@@ -9,4 +9,5 @@ The resting point of the throttlebody is not 0 in the full travel range. unpower
 so the tb should be able to go both ways, inputs from megasquirt 3x and pedal to set setpoint.
 the input from MS is 0-5v for "idleadvance".
 
-About the dual pots, these should be checked and throw en error code if outside set limits. say for example one wire is broken or pot is dead it should kill the throttlebody and halt the enginge.
+About the dual pots, these should be checked and throw en error code if outside set limits. 
+say for example one wire is broken or pot is dead it should kill the throttlebody and halt the enginge.
